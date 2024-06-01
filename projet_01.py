@@ -2,8 +2,9 @@
 """
 Created on Tue Mar  5 15:17:11 2024
 
-@author: NZONGBO DUNGUSE
-        MBAYA MUTOKA
+@author: TSHIPAMBA UTABULUKE JOËL
+         MAHAMAT KABUNDI MOUSSE
+        
 """
 import numpy as np
 import matplotlib.pyplot as plt 
